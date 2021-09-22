@@ -1,4 +1,7 @@
 .idea
+.vscode
+.sublime-workspace
+
 
 # "mu-plugins", "plugins", "themes" directory
 /*
